@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bernisko Fancy Aljunez P.</h1>
+<h1 align="center">Hello, I'm Bernisko Fancy Aljunez P.</h1>
 <h3 align="center">A passionate frontend developer and full-time learner</h3>
 
 - 🌱 I’m currently learning **React and Typescript**
