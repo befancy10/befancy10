@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Bernisko Fancy Aljunez P.</h1>
 <h3 align="center">A passionate frontend developer and full-time learner</h3>
 <h3 align="left"><i>About me:</i></h3>
+
 - 🌱 I’m currently learning **React and Typescript**
 
 - 📫 How to reach me **berniskofancy10.bf10.bf@gmail.com**
